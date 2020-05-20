@@ -28,7 +28,17 @@
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$chatbot_demo.coverage" NAME="chatbot-demo Coverage Results" MODIFIED="1583993497171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lesson04" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02DL/01DL_Basic/exam/Exam-21891.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,10 +86,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="610" />
-    <option name="y" value="2" />
-    <option name="width" value="682" />
-    <option name="height" value="726" />
+    <option name="x" value="54" />
+    <option name="y" value="-8" />
+    <option name="width" value="1874" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -98,19 +108,6 @@
               <item name="JulyEdu-Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="JulyEdu-Projects" type="462c0819:PsiDirectoryNode" />
               <item name="02DL" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JulyEdu-Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JulyEdu-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="02DL" type="462c0819:PsiDirectoryNode" />
-              <item name="01DL_Basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JulyEdu-Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JulyEdu-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="02DL" type="462c0819:PsiDirectoryNode" />
-              <item name="01DL_Basic" type="462c0819:PsiDirectoryNode" />
-              <item name="exam" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -289,16 +286,17 @@
       <workItem from="1584928773388" duration="657000" />
       <workItem from="1587203206138" duration="1018000" />
       <workItem from="1589595609686" duration="5001000" />
+      <workItem from="1589692238841" duration="1214000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30920000" />
+    <option name="totallyTimeSpent" value="32134000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1318" height="784" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25675675" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1963434" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -458,20 +456,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02DL/01DL_Basic/exam/Exam-632596.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02DL/01DL_Basic/exam/Exam-633350.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/02DL/01DL_Basic/exam/Exam-632596.ipynb" />
+    <entry file="file://$PROJECT_DIR$/02DL/01DL_Basic/exam/Exam-633350.ipynb" />
     <entry file="file://$PROJECT_DIR$/02DL/01DL_Basic/课前导学/第5课-图像风格转换.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -486,13 +472,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02DL/01DL_Basic/Exam-21891.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/02DL/01DL_Basic/Exam-21891.ipynb" />
     <entry file="file://$PROJECT_DIR$/03ML_mini/01demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -500,17 +480,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02DL/01DL_Basic/exam/Exam-21891.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02DL/01DL_Basic/课前导学/第1课-深度学习入门.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02DL/01DL_Basic/exam/Exam-21891.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
         </state>
       </provider>
     </entry>
