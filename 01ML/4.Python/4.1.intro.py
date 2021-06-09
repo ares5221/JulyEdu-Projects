@@ -48,8 +48,8 @@ if __name__ == "__main__":
     #  [30 31 32 33 34 35]
     #  [40 41 42 43 44 45]
     #  [50 51 52 53 54 55]]
-    a = np.arange(0, 60, 10).reshape((-1, 1)) + np.arange(6)
-    print(a)
+    # a = np.arange(0, 60, 10).reshape((-1, 1)) + np.arange(6)
+    # print(a)
 
     # 正式开始  -:)
     # 标准Python的列表(list)中，元素本质是对象。
@@ -115,7 +115,7 @@ if __name__ == "__main__":
     # 如果生成一定规则的数据，可以使用NumPy提供的专门函数
     # arange函数类似于python的range函数：指定起始值、终止值和步长来创建数组
     # 和Python的range类似，arange同样不包括终值；但arange可以生成浮点类型，而range只能是整数类型
-    np.set_printoptions(linewidth=100, suppress=True)
+    # np.set_printoptions(linewidth=100, suppress=True)
     # a = np.arange(1, 10, 0.5)
     # print(a)
     #
@@ -246,36 +246,36 @@ if __name__ == "__main__":
     # b = np.unique(a)
     # print('去重后：', b)
     # # 4.2.2 二维数组的去重，结果会是预期的么？
-    c = np.array(((1, 2), (3, 4), (5, 6), (1, 3), (3, 4), (7, 6)))
-    print('二维数组：\n', c)
-    print('去重后：', np.unique(c))
-    # # # 4.2.3 方案1：转换为虚数
-    r, i = np.split(c, (1, ), axis=1)
-    x = r + i * 1j
-    # x = c[:, 0] + c[:, 1] * 1j
-    print('转换成虚数：', x)
-    print('虚数去重后：', np.unique(x))
-    print(np.unique(x, return_index=True))   # 思考return_index的意义
-    idx = np.unique(x, return_index=True)[1]
-    print('二维数组去重：\n', c[idx])
-    # # 4.2.3 方案2：利用set
-    print('去重方案2：\n', np.array(list(set([tuple(t) for t in c]))))
-
-    # 4.3 stack and axis
-    a = np.arange(1, 7).reshape((2, 3))
-    b = np.arange(11, 17).reshape((2, 3))
-    c = np.arange(21, 27).reshape((2, 3))
-    d = np.arange(31, 37).reshape((2, 3))
-    print('a = \n', a)
-    print('b = \n', b)
-    print('c = \n', c)
-    print('d = \n', d)
-    s = np.stack((a, b, c, d), axis=0)
-    print('axis = 0 ', s.shape, '\n', s)
-    s = np.stack((a, b, c, d), axis=1)
-    print('axis = 1 ', s.shape, '\n', s)
-    s = np.stack((a, b, c, d), axis=2)
-    print('axis = 2 ', s.shape, '\n', s)
+    # c = np.array(((1, 2), (3, 4), (5, 6), (1, 3), (3, 4), (7, 6)))
+    # print('二维数组：\n', c)
+    # print('去重后：', np.unique(c))
+    # # # # 4.2.3 方案1：转换为虚数
+    # r, i = np.split(c, (1, ), axis=1)
+    # x = r + i * 1j
+    # # x = c[:, 0] + c[:, 1] * 1j
+    # print('转换成虚数：', x)
+    # print('虚数去重后：', np.unique(x))
+    # print(np.unique(x, return_index=True))   # 思考return_index的意义
+    # idx = np.unique(x, return_index=True)[1]
+    # print('二维数组去重：\n', c[idx])
+    # # # 4.2.3 方案2：利用set
+    # print('去重方案2：\n', np.array(list(set([tuple(t) for t in c]))))
+    #
+    # # 4.3 stack and axis
+    # a = np.arange(1, 7).reshape((2, 3))
+    # b = np.arange(11, 17).reshape((2, 3))
+    # c = np.arange(21, 27).reshape((2, 3))
+    # d = np.arange(31, 37).reshape((2, 3))
+    # print('a = \n', a)
+    # print('b = \n', b)
+    # print('c = \n', c)
+    # print('d = \n', d)
+    # s = np.stack((a, b, c, d), axis=0)
+    # print('axis = 0 ', s.shape, '\n', s)
+    # s = np.stack((a, b, c, d), axis=1)
+    # print('axis = 1 ', s.shape, '\n', s)
+    # s = np.stack((a, b, c, d), axis=2)
+    # print('axis = 2 ', s.shape, '\n', s)
 
     # a = np.arange(1, 10).reshape(3,3)
     # print(a)
@@ -292,24 +292,24 @@ if __name__ == "__main__":
 
     # 5.绘图
     # 5.1 绘制正态分布概率密度函数
-    mpl.rcParams['font.sans-serif'] = [u'SimHei']  #FangSong/黑体 FangSong/KaiTi
-    mpl.rcParams['axes.unicode_minus'] = False
-    mu = 0
-    sigma = 1
-    x = np.linspace(mu - 3 * sigma, mu + 3 * sigma, 51)
-    y = np.exp(-(x - mu) ** 2 / (2 * sigma ** 2)) / (math.sqrt(2 * math.pi) * sigma)
-    print(x.shape)
-    print('x = \n', x)
-    print(y.shape)
-    print('y = \n', y)
-    plt.figure(facecolor='w')
-    plt.plot(x, y, 'ro-', linewidth=2)
-    # plt.plot(x, y, 'r-', x, y, 'go', linewidth=2, markersize=8)
-    plt.xlabel('X', fontsize=15)
-    plt.ylabel('Y', fontsize=15)
-    plt.title(u'高斯分布函数', fontsize=18)    #
-    plt.grid(True)
-    plt.show()
+    # mpl.rcParams['font.sans-serif'] = [u'SimHei']  #FangSong/黑体 FangSong/KaiTi
+    # mpl.rcParams['axes.unicode_minus'] = False
+    # mu = 0
+    # sigma = 1
+    # x = np.linspace(mu - 3 * sigma, mu + 3 * sigma, 51)
+    # y = np.exp(-(x - mu) ** 2 / (2 * sigma ** 2)) / (math.sqrt(2 * math.pi) * sigma)
+    # print(x.shape)
+    # print('x = \n', x)
+    # print(y.shape)
+    # print('y = \n', y)
+    # plt.figure(facecolor='w')
+    # plt.plot(x, y, 'ro-', linewidth=2)
+    # # plt.plot(x, y, 'r-', x, y, 'go', linewidth=2, markersize=8)
+    # plt.xlabel('X', fontsize=15)
+    # plt.ylabel('Y', fontsize=15)
+    # plt.title(u'高斯分布函数', fontsize=18)    #
+    # plt.grid(True)
+    # plt.show()
 
     # 5.2 损失函数：Logistic损失(-1,1)/SVM Hinge损失/ 0/1损失
     # plt.figure(figsize=(10,8))
@@ -319,6 +319,10 @@ if __name__ == "__main__":
     # y_01 = x < 0
     # y_hinge = 1.0 - x
     # y_hinge[y_hinge < 0] = 0
+    # print('y_logit = \n', y_logit)
+    # print('y_boost = \n', y_boost)
+    # print('y_01 = \n', y_01)
+    # print('y_hinge = \n', y_hinge)
     # plt.plot(x, y_logit, 'r-', label='Logistic Loss', linewidth=2)
     # plt.plot(x, y_01, 'g-', label='0/1 Loss', linewidth=2)
     # plt.plot(x, y_hinge, 'b-', label='Hinge Loss', linewidth=2)
@@ -347,13 +351,13 @@ if __name__ == "__main__":
     # # plt.savefig('breast.png')
     # plt.show()
 
-    # 5.5 心形线
-    t = np.linspace(0, 2*np.pi, 100)
-    x = 16 * np.sin(t) ** 3
-    y = 13 * np.cos(t) - 5 * np.cos(2*t) - 2 * np.cos(3*t) - np.cos(4*t)
-    plt.plot(x, y, 'r-', linewidth=2)
-    plt.grid(True)
-    plt.show()
+    # # 5.5 心形线
+    # t = np.linspace(0, 2*np.pi, 100)
+    # x = 16 * np.sin(t) ** 3
+    # y = 13 * np.cos(t) - 5 * np.cos(2*t) - 2 * np.cos(3*t) - np.cos(4*t)
+    # plt.plot(x, y, 'r-', linewidth=2)
+    # plt.grid(True)
+    # plt.show()
 
     # # 5.6 渐开线
     # t = np.linspace(0, 50, num=1000)
@@ -377,13 +381,13 @@ if __name__ == "__main__":
 
     # 6. 概率分布
     # 6.1 均匀分布
-    # x = np.random.rand(10000)
-    # t = np.arange(len(x))
-    # # plt.hist(x, 30, color='m', alpha=0.5, label=u'均匀分布')
-    # plt.plot(t, x, 'g.', label=u'均匀分布')
-    # plt.legend(loc='upper left')
-    # plt.grid()
-    # plt.show()
+    x = np.random.rand(10000)
+    t = np.arange(len(x))
+    # plt.hist(x, 30, color='m', alpha=0.5, label=u'均匀分布')
+    plt.plot(t, x, 'g.', label=u'均匀分布')
+    plt.legend(loc='upper left')
+    plt.grid()
+    plt.show()
 
     # # 6.2 验证中心极限定理
     # t = 1000
@@ -492,25 +496,25 @@ if __name__ == "__main__":
     # # ax.plot_surface(x, y, z, rstride=5, cstride=5, cmap=cm.coolwarm, linewidth=0.1)  #
     # ax.plot_surface(x, y, z, rstride=3, cstride=3, cmap=cm.gist_heat, linewidth=0.5)
     # plt.show()
-    # # cmaps = [('Perceptually Uniform Sequential',
-    # #           ['viridis', 'inferno', 'plasma', 'magma']),
-    # #          ('Sequential', ['Blues', 'BuGn', 'BuPu',
-    # #                          'GnBu', 'Greens', 'Greys', 'Oranges', 'OrRd',
-    # #                          'PuBu', 'PuBuGn', 'PuRd', 'Purples', 'RdPu',
-    # #                          'Reds', 'YlGn', 'YlGnBu', 'YlOrBr', 'YlOrRd']),
-    # #          ('Sequential (2)', ['afmhot', 'autumn', 'bone', 'cool',
-    # #                              'copper', 'gist_heat', 'gray', 'hot',
-    # #                              'pink', 'spring', 'summer', 'winter']),
-    # #          ('Diverging', ['BrBG', 'bwr', 'coolwarm', 'PiYG', 'PRGn', 'PuOr',
-    # #                         'RdBu', 'RdGy', 'RdYlBu', 'RdYlGn', 'Spectral',
-    # #                         'seismic']),
-    # #          ('Qualitative', ['Accent', 'Dark2', 'Paired', 'Pastel1',
-    # #                           'Pastel2', 'Set1', 'Set2', 'Set3']),
-    # #          ('Miscellaneous', ['gist_earth', 'terrain', 'ocean', 'gist_stern',
-    # #                             'brg', 'CMRmap', 'cubehelix',
-    # #                             'gnuplot', 'gnuplot2', 'gist_ncar',
-    # #                             'nipy_spectral', 'jet', 'rainbow',
-    # #                             'gist_rainbow', 'hsv', 'flag', 'prism'])]
+    # cmaps = [('Perceptually Uniform Sequential',
+    #           ['viridis', 'inferno', 'plasma', 'magma']),
+    #          ('Sequential', ['Blues', 'BuGn', 'BuPu',
+    #                          'GnBu', 'Greens', 'Greys', 'Oranges', 'OrRd',
+    #                          'PuBu', 'PuBuGn', 'PuRd', 'Purples', 'RdPu',
+    #                          'Reds', 'YlGn', 'YlGnBu', 'YlOrBr', 'YlOrRd']),
+    #          ('Sequential (2)', ['afmhot', 'autumn', 'bone', 'cool',
+    #                              'copper', 'gist_heat', 'gray', 'hot',
+    #                              'pink', 'spring', 'summer', 'winter']),
+    #          ('Diverging', ['BrBG', 'bwr', 'coolwarm', 'PiYG', 'PRGn', 'PuOr',
+    #                         'RdBu', 'RdGy', 'RdYlBu', 'RdYlGn', 'Spectral',
+    #                         'seismic']),
+    #          ('Qualitative', ['Accent', 'Dark2', 'Paired', 'Pastel1',
+    #                           'Pastel2', 'Set1', 'Set2', 'Set3']),
+    #          ('Miscellaneous', ['gist_earth', 'terrain', 'ocean', 'gist_stern',
+    #                             'brg', 'CMRmap', 'cubehelix',
+    #                             'gnuplot', 'gnuplot2', 'gist_ncar',
+    #                             'nipy_spectral', 'jet', 'rainbow',
+    #                             'gist_rainbow', 'hsv', 'flag', 'prism'])]
 
     # 8.1 scipy
     # 线性回归例1

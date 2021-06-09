@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 
 
 def calc_e_small(x):
+    # 泰勒展开求e的0.x 指数
     n = 10
     f = np.arange(1, n+1).cumprod()
     b = np.array([x]*n).cumprod()
@@ -19,6 +20,7 @@ def calc_e(x):
     if x < 0:   # 处理负数
         x = -x
         reverse = True
+    # 计算exp(2.4)的方法 先将其变成
     ln2 = 0.69314718055994530941723212145818
     c = x / ln2
     a = int(c+0.5)
@@ -30,10 +32,13 @@ def calc_e(x):
 
 
 if __name__ == "__main__":
+    # 随着横轴数据的增大 y的变化越来越明显，为了让图像好看 需要让后部分的取点更密集
     t1 = np.linspace(-2, 0, 10, endpoint=False)
     t2 = np.linspace(0, 4, 20)
     t = np.concatenate((t1, t2))
-    print(t)     # 横轴数据
+    print('t1=\n ',t1 )     # 横轴数据
+    print('t2=\n ',t2 )     # 横轴数据
+    print('t=\n ',t )     # 横轴数据
     y = np.empty_like(t)
     for i, x in enumerate(t):
         y[i] = calc_e(x)

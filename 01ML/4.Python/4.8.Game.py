@@ -7,12 +7,13 @@ from scipy import special
 
 if __name__ == '__main__':
     method = 'strict'
+    method = 'simulation'
 
     # 1.暴力模拟
     if method == 'simulation':
         p = 0.6
         a, b, c = 0, 0, 0
-        t, T = 0, 1000000
+        t, T = 0, 10000
         while t < T:
             a = b = 0
             while (a <= 11) and (b <= 11):
@@ -36,7 +37,7 @@ if __name__ == '__main__':
     else:
         answer = 0
         p = 0.525  # 每分的胜率
-        N = 1000  # 每局多少分
+        N = 11  # 每局多少分
         for x in np.arange(N-1):  # x为对手得分：11:9  11:8  11:7  11:6...
             answer += special.comb(N + x - 1, x) * ((1 - p) ** x) * (p ** N)
             print(x, answer)
