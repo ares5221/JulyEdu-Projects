@@ -12,7 +12,7 @@ if __name__ == "__main__":
     mpl.rcParams['axes.unicode_minus'] = False
 
     np.set_printoptions(suppress=True, linewidth=100, edgeitems=5)
-    data = np.loadtxt('..\\SH600000.txt', dtype=np.float, delimiter='\t', skiprows=2, usecols=(1, 2, 3, 4))
+    data = np.loadtxt('./SH600000.txt', dtype=np.float, delimiter='\t', skiprows=2, usecols=(1, 2, 3, 4))
     data = data[:50]
     N = len(data)
 

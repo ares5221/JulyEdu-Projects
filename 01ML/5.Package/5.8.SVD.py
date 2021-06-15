@@ -36,7 +36,7 @@ def restore2(sigma, u, v, K):  # 奇异值、左特征向量、右特征向量
 
 
 if __name__ == "__main__":
-    A = Image.open("..\\lena.png", 'r')
+    A = Image.open("./lena.png", 'r')
     print(A)
     output_path = r'.\SVD_Output'
     if not os.path.exists(output_path):
@@ -51,7 +51,7 @@ if __name__ == "__main__":
     mpl.rcParams['font.sans-serif'] = ['simHei']
     mpl.rcParams['axes.unicode_minus'] = False
     for k in range(1, K+1):
-        print(k)
+        # print(k)
         R = restore1(sigma_r, u_r, v_r, k)
         G = restore1(sigma_g, u_g, v_g, k)
         B = restore1(sigma_b, u_b, v_b, k)
