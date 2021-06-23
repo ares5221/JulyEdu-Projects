@@ -14,27 +14,26 @@ from numpy import interp
 from sklearn import metrics
 from itertools import cycle
 
-
 if __name__ == '__main__':
     np.random.seed(0)
     pd.set_option('display.width', 300)
     np.set_printoptions(suppress=True, linewidth=200)
     n = 300
     x = np.random.randn(n, 50)
-    y = np.array([0]*100+[1]*100+[2]*100)
+    y = np.array([0] * 100 + [1] * 100 + [2] * 100)
     n_class = 3
-    print ('Before = \n', y)
+    print('Before = \n', y)
 
     clf = LogisticRegression(penalty='l2', C=1)
     clf.fit(x, y)
     y_score = clf.decision_function(x)
-    print ('y_score = \n', y_score)
+    print('y_score = \n', y_score)
     y = label_binarize(y, classes=np.arange(n_class))
-    print ('After = \n', y)
+    print('After = \n', y)
     colors = cycle('gbc')
     fpr = dict()
     tpr = dict()
-    auc = np.empty(n_class+2)
+    auc = np.empty(n_class + 2)
     mpl.rcParams['font.sans-serif'] = u'SimHei'
     mpl.rcParams['axes.unicode_minus'] = False
     plt.figure(figsize=(7, 6), facecolor='w')
@@ -53,10 +52,10 @@ if __name__ == '__main__':
         tpr_ += interp(fpr['macro'], fpr[i], tpr[i])
     tpr_ /= n_class
     tpr['macro'] = tpr_
-    auc[n_class+1] = metrics.auc(fpr['macro'], tpr['macro'])
-    print (auc)
-    print ('Macro AUC:', metrics.roc_auc_score(y, y_score, average='macro'))
-    plt.plot(fpr['macro'], tpr['macro'], c='m', lw=2, alpha=0.8, label=u'macro，AUC=%.3f' % auc[n_class+1])
+    auc[n_class + 1] = metrics.auc(fpr['macro'], tpr['macro'])
+    print(auc)
+    print('Macro AUC:', metrics.roc_auc_score(y, y_score, average='macro'))
+    plt.plot(fpr['macro'], tpr['macro'], c='m', lw=2, alpha=0.8, label=u'macro，AUC=%.3f' % auc[n_class + 1])
     plt.plot((0, 1), (0, 1), c='#808080', lw=1.5, ls='--', alpha=0.7)
     plt.xlim((-0.01, 1.02))
     plt.ylim((-0.01, 1.02))

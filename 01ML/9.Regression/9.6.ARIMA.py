@@ -23,7 +23,7 @@ if __name__ == '__main__':
     pd.set_option('display.width', 100)
     np.set_printoptions(linewidth=100, suppress=True)
 
-    data = pd.read_csv('..\\AirPassengers.csv', header=0, parse_dates=['Month'], date_parser=date_parser, index_col=['Month'])
+    data = pd.read_csv('./AirPassengers.csv', header=0, parse_dates=['Month'], date_parser=date_parser, index_col=['Month'])
     data.rename(columns={'#Passengers': 'Passengers'}, inplace=True)
     print(data.dtypes)
     mpl.rcParams['font.sans-serif'] = ['SimHei']

@@ -12,7 +12,7 @@ from sklearn.model_selection import GridSearchCV
 
 if __name__ == "__main__":
     # pandas读入
-    data = pd.read_csv('..\\Advertising.csv')    # TV、Radio、Newspaper、Sales
+    data = pd.read_csv('./Advertising.csv')    # TV、Radio、Newspaper、Sales
     print(data)
     x = data[['TV', 'Radio', 'Newspaper']]
     # x = data[['TV', 'Radio']]
@@ -21,8 +21,8 @@ if __name__ == "__main__":
     print(y)
 
     x_train, x_test, y_train, y_test = train_test_split(x, y, random_state=1, train_size=0.8)
-    # model = Lasso()
-    model = Ridge()
+    model = Lasso()
+    # model = Ridge()
     alpha_can = np.logspace(-3, 2, 10)
     np.set_printoptions(suppress=True)
     print('alpha_can = ', alpha_can)
@@ -45,7 +45,7 @@ if __name__ == "__main__":
     plt.figure(facecolor='w')
     plt.plot(t, y_test, 'r-', linewidth=2, label='真实数据')
     plt.plot(t, y_hat, 'g-', linewidth=2, label='预测数据')
-    plt.title('线性回归预测销量', fontsize=18)
+    plt.title('线性回归预测销量1', fontsize=18)
     plt.legend(loc='upper left')
     plt.grid(b=True, ls=':')
     plt.show()

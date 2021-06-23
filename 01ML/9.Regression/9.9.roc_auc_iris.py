@@ -24,10 +24,9 @@ if __name__ == '__main__':
     data = pd.read_csv('iris.data', header=None)
     iris_types = data[4].unique()
     for i, iris_type in enumerate(iris_types):
-        data.set_value(data[4] == iris_type, 4, i)
+        data._set_value(data[4] == iris_type, 4, i)
     x = data.iloc[:, :2]
     n, features = x.shape
-    print x
     y = data.iloc[:, -1].astype(np.int)
     c_number = np.unique(y).size
     x, x_test, y, y_test = train_test_split(x, y, train_size=0.6, random_state=0)

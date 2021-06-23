@@ -23,7 +23,7 @@ def not_empty(s):
 if __name__ == "__main__":
     warnings.filterwarnings(action='ignore')
     np.set_printoptions(suppress=True)
-    file_data = pd.read_csv('..\\housing.data', header=None)
+    file_data = pd.read_csv('./housing.data', header=None)
     # a = np.array([float(s) for s in str if s != ''])
     data = np.empty((len(file_data), 14))
     for i, d in enumerate(file_data.values):
@@ -38,19 +38,17 @@ if __name__ == "__main__":
     y = y.ravel()
 
     x_train, x_test, y_train, y_test = train_test_split(x, y, train_size=0.7, random_state=0)
-    # model = Pipeline([
-    #     ('ss', StandardScaler()),
-    #     ('poly', PolynomialFeatures(degree=3, include_bias=True)),
-    #     ('linear', ElasticNetCV(l1_ratio=[0.1, 0.3, 0.5, 0.7, 0.99, 1], alphas=np.logspace(-3, 2, 5),
-    #                             fit_intercept=False, max_iter=1e3, cv=3))
-    # ])
-    model = RandomForestRegressor(n_estimators=50, criterion='mse')
+    # 使用线性模型
+    model = Pipeline([
+        ('ss', StandardScaler()),
+        ('poly', PolynomialFeatures(degree=3, include_bias=True)),
+        ('linear', ElasticNetCV(l1_ratio=[0.1, 0.3, 0.5, 0.7, 0.99, 1], alphas=np.logspace(-3, 2, 5),
+                                fit_intercept=False, max_iter=1e3, cv=3))
+    ])
+    # 使用随机森林模型
+    # model = RandomForestRegressor(n_estimators=50, criterion='mse')
     print('开始建模...')
     model.fit(x_train, y_train)
-    # linear = model.get_params('linear')['linear']
-    # print u'超参数：', linear.alpha_
-    # print u'L1 ratio：', linear.l1_ratio_
-    # print u'系数：', linear.coef_.ravel()
 
     order = y_test.argsort(axis=0)
     y_test = y_test[order]
