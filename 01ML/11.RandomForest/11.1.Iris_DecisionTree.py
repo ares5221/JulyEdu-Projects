@@ -21,7 +21,7 @@ if __name__ == "__main__":
     iris_feature = '花萼长度', '花萼宽度', '花瓣长度', '花瓣宽度'
     iris_class = 'Iris-setosa', 'Iris-versicolor', 'Iris-virginica'
 
-    path = '..\\9.Regression\\iris.data'  # 数据文件路径
+    path = './../9.Regression/iris.data'  # 数据文件路径
     data = pd.read_csv(path, header=None)
     x = data[list(range(4))]
     # y = pd.Categorical(data[4]).codes
@@ -40,20 +40,20 @@ if __name__ == "__main__":
     print('accuracy_score:', accuracy_score(y_test, y_test_hat))
 
     # 保存
-    # dot -Tpng my.dot -o my.png
-    # 1、输出
-    with open('iris.dot', 'w') as f:
-        tree.export_graphviz(model, out_file=f)
-    # 2、给定文件名
-    # tree.export_graphviz(model, out_file='iris1.dot')
-    # 3、输出为pdf格式
-    dot_data = tree.export_graphviz(model, out_file=None, feature_names=iris_feature_E[0:2], class_names=iris_class,
-                                    filled=True, rounded=True, special_characters=True)
-    graph = pydotplus.graph_from_dot_data(dot_data)
-    graph.write_pdf('iris.pdf')
-    f = open('iris.png', 'wb')
-    f.write(graph.create_png())
-    f.close()
+    # # dot -Tpng my.dot -o my.png
+    # # 1、输出
+    # with open('iris.dot', 'w') as f:
+    #     tree.export_graphviz(model, out_file=f)
+    # # 2、给定文件名
+    # # tree.export_graphviz(model, out_file='iris1.dot')
+    # # 3、输出为pdf格式
+    # dot_data = tree.export_graphviz(model, out_file=None, feature_names=iris_feature_E[0:2], class_names=iris_class,
+    #                                 filled=True, rounded=True, special_characters=True)
+    # graph = pydotplus.graph_from_dot_data(dot_data)
+    # graph.write_pdf('iris.pdf')
+    # f = open('iris.png', 'wb')
+    # f.write(graph.create_png())
+    # f.close()
 
     # 画图
     N, M = 50, 50  # 横纵各采样多少个值

@@ -14,7 +14,7 @@ if __name__ == "__main__":
     mpl.rcParams['axes.unicode_minus'] = False
 
     iris_feature = u'花萼长度', u'花萼宽度', u'花瓣长度', u'花瓣宽度'
-    path = '..\\..\\9.Regression\\iris.data'  # 数据文件路径
+    path = './../9.Regression/iris.data'  # 数据文件路径
     data = pd.read_csv(path, header=None)
     x_prime = data[list(range(4))]
     y = pd.Categorical(data[4]).codes
