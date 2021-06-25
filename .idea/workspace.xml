@@ -55,11 +55,13 @@
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$4_4_calc_sin.coverage" NAME="4.4.calc_sin Coverage Results" MODIFIED="1623232775788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/4.Python" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$q3_cal_tfidf__1_.coverage" NAME="q3_cal_tfidf (1) Coverage Results" MODIFIED="1583994726997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/exam" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$logic_demo.coverage" NAME="logic_demo Coverage Results" MODIFIED="1623993815384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$00demo.coverage" NAME="00demo Coverage Results" MODIFIED="1624585928203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/7.cluser" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_2_hashlib.coverage" NAME="5.2.hashlib Coverage Results" MODIFIED="1623722351564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$11_2_Iris_DecisionTree_Enum.coverage" NAME="11.2.Iris_DecisionTree_Enum Coverage Results" MODIFIED="1624505113936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/11.RandomForest" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$lesson01_stemming_lemma.coverage" NAME="lesson01-stemming-lemma Coverage Results" MODIFIED="1583917557841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lession01" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$4_8_Game.coverage" NAME="4.8.Game Coverage Results" MODIFIED="1623233029449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/4.Python" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$9_9_roc_auc_iris.coverage" NAME="9.9.roc_auc_iris Coverage Results" MODIFIED="1624438158323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$tt.coverage" NAME="tt Coverage Results" MODIFIED="1624587430989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/7.cluser" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$rule_base3.coverage" NAME="rule_base3 Coverage Results" MODIFIED="1583979201008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lesson03" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$lr.coverage" NAME="lr Coverage Results" MODIFIED="1621844590276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/linear_regression" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_9_stock.coverage" NAME="5.9.stock Coverage Results" MODIFIED="1623727406038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
@@ -152,19 +154,36 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01ML/11.RandomForest/10.DT.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="539">
-              <caret line="169" column="13" lean-forward="true" selection-end-line="169" selection-end-column="13" />
+            <state relative-caret-position="463">
+              <caret line="150" column="25" lean-forward="true" selection-start-line="150" selection-start-column="25" selection-end-line="150" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01ML/7.cluser/00demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+              <folding>
+                <element signature="e#46#64#0" expanded="true" />
+                <element signature="e#656#941#0" />
+                <element signature="e#995#1819#0" />
+                <element signature="e#1877#2589#0" />
+                <element signature="e#1723#2383#0" />
+                <element signature="e#2425#3395#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01ML/11.RandomForest/10.1RF.py">
+        <entry file="file://$PROJECT_DIR$/01ML/7.cluser/tt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+            <state relative-caret-position="198">
+              <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
               <folding>
-                <element signature="e#46#93#0" expanded="true" />
+                <element signature="e#45#63#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -190,6 +209,7 @@
       <find>y</find>
       <find>iris_type</find>
       <find>print</find>
+      <find>distance</find>
     </findStrings>
     <replaceStrings>
       <replace>'</replace>
@@ -249,12 +269,14 @@
         <option value="$PROJECT_DIR$/01ML/11.RandomForest/Python2/11.0.Entropy.py" />
         <option value="$PROJECT_DIR$/01ML/11.RandomForest/11.1.Iris_DecisionTree.py" />
         <option value="$PROJECT_DIR$/01ML/11.RandomForest/11.2.Iris_DecisionTree_Enum.py" />
-        <option value="$PROJECT_DIR$/01ML/11.RandomForest/10.DT.py" />
         <option value="$PROJECT_DIR$/01ML/11.RandomForest/10.1RF.py" />
+        <option value="$PROJECT_DIR$/01ML/11.RandomForest/10.DT.py" />
+        <option value="$PROJECT_DIR$/01ML/7.cluser/00demo.py" />
+        <option value="$PROJECT_DIR$/01ML/7.cluser/tt.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="2" />
     <option name="y" value="2" />
     <option name="width" value="1446" />
@@ -282,7 +304,7 @@
               <item name="JulyEdu-Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="JulyEdu-Projects" type="462c0819:PsiDirectoryNode" />
               <item name="01ML" type="462c0819:PsiDirectoryNode" />
-              <item name="11.RandomForest" type="462c0819:PsiDirectoryNode" />
+              <item name="7.cluser" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JulyEdu-Projects" type="b2602c69:ProjectViewProjectNode" />
@@ -311,8 +333,8 @@
       <recent name="G:\pythonLearningWorkSpace\JulyEdu-Projects" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\pythonLearningWorkSpace\JulyEdu-Projects\01ML\11.RandomForest" />
       <recent name="G:\pythonLearningWorkSpace\JulyEdu-Projects\01ML" />
+      <recent name="G:\pythonLearningWorkSpace\JulyEdu-Projects\01ML\11.RandomForest" />
       <recent name="G:\pythonLearningWorkSpace\JulyEdu-Projects\01ML\logistic_regression" />
       <recent name="G:\pythonLearningWorkSpace\JulyEdu-Projects\02DL\01DL_Basic" />
       <recent name="G:\pythonLearningWorkSpace\JulyEdu-Projects\02DL\01DL_Basic\exam" />
@@ -330,7 +352,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.10.1RF">
+  <component name="RunManager" selected="Python.tt">
+    <configuration name="00demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JulyEdu-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01ML/7.cluser" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01ML/7.cluser/00demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="10.1RF" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JulyEdu-Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -375,50 +419,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11.1.Iris_DecisionTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="JulyEdu-Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01ML/11.RandomForest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01ML/11.RandomForest/11.1.Iris_DecisionTree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="11.2.Iris_DecisionTree_Enum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="JulyEdu-Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01ML/11.RandomForest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01ML/11.RandomForest/11.2.Iris_DecisionTree_Enum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="11.3.DecisionTreeRegressor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JulyEdu-Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -441,13 +441,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JulyEdu-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01ML/7.cluser" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01ML/7.cluser/tt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tt" />
+        <item itemvalue="Python.00demo" />
         <item itemvalue="Python.10.1RF" />
         <item itemvalue="Python.10.DT" />
         <item itemvalue="Python.11.3.DecisionTreeRegressor" />
-        <item itemvalue="Python.11.2.Iris_DecisionTree_Enum" />
-        <item itemvalue="Python.11.1.Iris_DecisionTree" />
       </list>
     </recent_temporary>
   </component>
@@ -472,12 +494,12 @@
       <workItem from="1622075505506" duration="620000" />
       <workItem from="1622970122229" duration="41240000" />
       <workItem from="1624322714020" duration="9825000" />
-      <workItem from="1624494968815" duration="6500000" />
+      <workItem from="1624494968815" duration="9282000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100997000" />
+    <option name="totallyTimeSpent" value="103779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
@@ -529,23 +551,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/01ML/11.RandomForest/10.DT.py</url>
-          <line>40</line>
+          <line>41</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01ML/5.Package/ImageConvolve/laplacian4.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01ML/5.Package/5.11.image_convolve.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-553">
-          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01ML/6.Data/6.3.pandas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1235">
@@ -858,19 +870,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01ML/11.RandomForest/10.DT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="169" column="13" lean-forward="true" selection-end-line="169" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01ML/11.RandomForest/10.1RF.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
           <folding>
             <element signature="e#46#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01ML/11.RandomForest/10.DT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="150" column="25" lean-forward="true" selection-start-line="150" selection-start-column="25" selection-end-line="150" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01ML/7.cluser/00demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding>
+            <element signature="e#46#64#0" expanded="true" />
+            <element signature="e#656#941#0" />
+            <element signature="e#995#1819#0" />
+            <element signature="e#1877#2589#0" />
+            <element signature="e#1723#2383#0" />
+            <element signature="e#2425#3395#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01ML/7.cluser/tt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding>
+            <element signature="e#45#63#0" expanded="true" />
           </folding>
         </state>
       </provider>
