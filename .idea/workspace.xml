@@ -71,6 +71,7 @@
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$11_2_Iris_DecisionTree_Enum.coverage" NAME="11.2.Iris_DecisionTree_Enum Coverage Results" MODIFIED="1624505113936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/11.RandomForest" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$18_1_kMeans.coverage" NAME="18.1.kMeans Coverage Results" MODIFIED="1625446122863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/18.Clustering" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$15_8_2_CV.coverage" NAME="15.8_2.CV Coverage Results" MODIFIED="1625197935053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/15.SVM" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$20_1_EM.coverage" NAME="20.1.EM Coverage Results" MODIFIED="1625559506212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/20.EM" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$lesson01_stemming_lemma.coverage" NAME="lesson01-stemming-lemma Coverage Results" MODIFIED="1583917557841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lession01" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$4_8_Game.coverage" NAME="4.8.Game Coverage Results" MODIFIED="1623233029449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/4.Python" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$9_9_roc_auc_iris.coverage" NAME="9.9.roc_auc_iris Coverage Results" MODIFIED="1624438158323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
@@ -105,19 +106,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01ML/15.SVM/15.9.grid.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01ML/18.Clustering/18.1.kMeans.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="407">
-              <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+              <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -126,7 +118,7 @@
         <entry file="file://$PROJECT_DIR$/01ML/18.Clustering/18.2.criteria.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-171">
-              <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -170,11 +162,20 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01ML/18.Clustering/18.8.SC.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="412">
-              <caret line="36" column="37" lean-forward="true" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+              <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01ML/20.EM/20.1.EM.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="71" column="31" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -183,7 +184,7 @@
         <entry file="file://$PROJECT_DIR$/01ML/18.Clustering/18.3.VectorQuantization.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1159">
-              <caret line="81" column="17" lean-forward="true" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+              <caret line="81" column="17" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -275,7 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="2" />
     <option name="y" value="2" />
     <option name="width" value="1446" />
@@ -303,7 +304,7 @@
               <item name="JulyEdu-Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="JulyEdu-Projects" type="462c0819:PsiDirectoryNode" />
               <item name="01ML" type="462c0819:PsiDirectoryNode" />
-              <item name="18.Clustering" type="462c0819:PsiDirectoryNode" />
+              <item name="20.EM" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JulyEdu-Projects" type="b2602c69:ProjectViewProjectNode" />
@@ -321,6 +322,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="python.debugger.dataview.autoresize" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -351,29 +353,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.18.8.SC">
-    <configuration name="18.1.kMeans" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="JulyEdu-Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01ML/18.Clustering" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01ML/18.Clustering/18.1.kMeans.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.20.1.EM">
     <configuration name="18.3.VectorQuantization" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JulyEdu-Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -462,13 +442,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="20.1.EM" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JulyEdu-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01ML/20.EM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01ML/20.EM/20.1.EM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.20.1.EM" />
         <item itemvalue="Python.18.8.SC" />
         <item itemvalue="Python.18.7.DBSCAN" />
         <item itemvalue="Python.18.6.AgglomerativeClustering" />
         <item itemvalue="Python.18.3.VectorQuantization" />
-        <item itemvalue="Python.18.1.kMeans" />
       </list>
     </recent_temporary>
   </component>
@@ -493,23 +495,22 @@
       <workItem from="1622075505506" duration="620000" />
       <workItem from="1622970122229" duration="41240000" />
       <workItem from="1624322714020" duration="9825000" />
-      <workItem from="1624494968815" duration="25805000" />
+      <workItem from="1624494968815" duration="26526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120302000" />
+    <option name="totallyTimeSpent" value="121023000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15766263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924242" visible="true" weight="0.36694387" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" visible="true" weight="0.36694387" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.28794178" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -523,7 +524,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" x="-1472" y="185" width="1180" height="744" id="SciView" order="3" visible="true" weight="0.35446528" />
+      <window_info active="true" anchor="right" x="-1472" y="185" width="1180" height="744" id="SciView" order="3" type="FLOATING" visible="true" weight="0.35446528" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -557,14 +558,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01ML/9.Regression/9.10.crim.py" />
-    <entry file="file://$PROJECT_DIR$/01ML/9.Regression/9.11.save.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01ML/9.Regression/9.12.LinearModel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -846,21 +839,21 @@
     <entry file="file://$PROJECT_DIR$/01ML/18.Clustering/18.1.kMeans.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
-          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01ML/18.Clustering/18.2.criteria.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-171">
-          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01ML/18.Clustering/18.3.VectorQuantization.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1159">
-          <caret line="81" column="17" lean-forward="true" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+          <caret line="81" column="17" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -893,10 +886,20 @@
     <entry file="file://$PROJECT_DIR$/01ML/18.Clustering/18.7_2.HDBSCAN.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/01ML/20.EM/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/01ML/18.Clustering/18.8.SC.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
-          <caret line="36" column="37" lean-forward="true" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01ML/20.EM/20.1.EM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="71" column="31" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="31" />
         </state>
       </provider>
     </entry>
