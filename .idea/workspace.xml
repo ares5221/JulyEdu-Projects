@@ -32,9 +32,11 @@
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$15_9_grid.coverage" NAME="15.9.grid Coverage Results" MODIFIED="1625198018247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/15.SVM" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$10_1RF.coverage" NAME="10.1RF Coverage Results" MODIFIED="1624521389572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/11.RandomForest" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_1_ImageToChar.coverage" NAME="5.1.ImageToChar Coverage Results" MODIFIED="1623216675890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$22_10_textrank.coverage" NAME="22.10.textrank Coverage Results" MODIFIED="1625618990143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/22.LDA" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$9_1_Advertising.coverage" NAME="9.1.Advertising Coverage Results" MODIFIED="1624435583426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$11_0_Entropy.coverage" NAME="11.0.Entropy Coverage Results" MODIFIED="1624495413908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/11.RandomForest/Python2" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$sgd_demo.coverage" NAME="sgd_demo Coverage Results" MODIFIED="1623987273751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$22_1_Iris_GaussianNB.coverage" NAME="22.1.Iris_GaussianNB Coverage Results" MODIFIED="1625618832693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/22.LDA" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_10_stock_K.coverage" NAME="5.10.stock_K Coverage Results" MODIFIED="1623727579518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$q3_cal_tfidf.coverage" NAME="q3_cal_tfidf Coverage Results" MODIFIED="1583993851730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/exam" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$15_5_unBalance.coverage" NAME="15.5.unBalance Coverage Results" MODIFIED="1625197824070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/15.SVM" />
@@ -69,6 +71,7 @@
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$00demo.coverage" NAME="00demo Coverage Results" MODIFIED="1624585928203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/7.cluser" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_2_hashlib.coverage" NAME="5.2.hashlib Coverage Results" MODIFIED="1623722351564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$11_2_Iris_DecisionTree_Enum.coverage" NAME="11.2.Iris_DecisionTree_Enum Coverage Results" MODIFIED="1624505113936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/11.RandomForest" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$22_9_QQ.coverage" NAME="22.9.QQ Coverage Results" MODIFIED="1625618967463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/22.LDA" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$18_1_kMeans.coverage" NAME="18.1.kMeans Coverage Results" MODIFIED="1625446122863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/18.Clustering" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$15_8_2_CV.coverage" NAME="15.8_2.CV Coverage Results" MODIFIED="1625197935053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/15.SVM" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$20_1_EM.coverage" NAME="20.1.EM Coverage Results" MODIFIED="1625559506212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/20.EM" />
@@ -106,63 +109,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01ML/18.Clustering/18.1.kMeans.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01ML/18.Clustering/18.2.criteria.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-171">
-              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01ML/18.Clustering/18.4.AP.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="25" column="35" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01ML/18.Clustering/18.5.MeanShift.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-285" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01ML/18.Clustering/18.6.AgglomerativeClustering.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1015">
-              <caret line="67" column="47" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01ML/18.Clustering/18.7.DBSCAN.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-646">
-              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01ML/18.Clustering/18.7_2.HDBSCAN.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01ML/18.Clustering/18.8.SC.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="412">
@@ -171,7 +117,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01ML/20.EM/20.1.EM.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="464">
@@ -181,10 +127,65 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01ML/18.Clustering/18.3.VectorQuantization.py">
+        <entry file="file://$PROJECT_DIR$/01ML/22.LDA/22.1.Iris_GaussianNB.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1159">
-              <caret line="81" column="17" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+            <state relative-caret-position="323">
+              <caret line="62" column="43" lean-forward="true" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01ML/22.LDA/22.3.text_classification.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1698" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01ML/22.LDA/22.4.word2vec_intro.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-900" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01ML/22.LDA/22.5.word2vec_sogou.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01ML/22.LDA/22.6.LDA_intro.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-710" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01ML/22.LDA/22.7.netease_news.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1026" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01ML/22.LDA/22.9.QQ.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-76">
+              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01ML/22.LDA/22.10.textrank.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -222,7 +223,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01NLP/01NLPBasic/lession01/nltk_work1_pro.py" />
         <option value="$PROJECT_DIR$/01NLP/01NLPBasic/lession01/nltk_work2.py" />
         <option value="$PROJECT_DIR$/01NLP/01NLPBasic/lession01/nltk_work3.py" />
         <option value="$PROJECT_DIR$/01NLP/01NLPBasic/lesson02/encode_decode.py" />
@@ -273,10 +273,11 @@
         <option value="$PROJECT_DIR$/01ML/13.Boost/13.2.xgBoost_Predict.py" />
         <option value="$PROJECT_DIR$/01ML/15.SVM/15.1.SVM_intro.py" />
         <option value="$PROJECT_DIR$/01ML/15.SVM/15.9.grid.py" />
+        <option value="$PROJECT_DIR$/01ML/22.LDA/22.5.word2vec_sogou.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2" />
     <option name="y" value="2" />
     <option name="width" value="1446" />
@@ -305,6 +306,12 @@
               <item name="JulyEdu-Projects" type="462c0819:PsiDirectoryNode" />
               <item name="01ML" type="462c0819:PsiDirectoryNode" />
               <item name="20.EM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JulyEdu-Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JulyEdu-Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="01ML" type="462c0819:PsiDirectoryNode" />
+              <item name="22.LDA" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JulyEdu-Projects" type="b2602c69:ProjectViewProjectNode" />
@@ -353,73 +360,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.20.1.EM">
-    <configuration name="18.3.VectorQuantization" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="JulyEdu-Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01ML/18.Clustering" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01ML/18.Clustering/18.3.VectorQuantization.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="18.6.AgglomerativeClustering" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="JulyEdu-Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01ML/18.Clustering" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01ML/18.Clustering/18.6.AgglomerativeClustering.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="18.7.DBSCAN" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="JulyEdu-Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01ML/18.Clustering" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01ML/18.Clustering/18.7.DBSCAN.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.22.10.textrank">
     <configuration name="18.8.SC" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JulyEdu-Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -464,13 +405,79 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="22.10.textrank" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JulyEdu-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01ML/22.LDA" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01ML/22.LDA/22.10.textrank.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="22.1.Iris_GaussianNB" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JulyEdu-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01ML/22.LDA" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01ML/22.LDA/22.1.Iris_GaussianNB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="22.9.QQ" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JulyEdu-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01ML/22.LDA" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01ML/22.LDA/22.9.QQ.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.22.10.textrank" />
+        <item itemvalue="Python.22.9.QQ" />
+        <item itemvalue="Python.22.1.Iris_GaussianNB" />
         <item itemvalue="Python.20.1.EM" />
         <item itemvalue="Python.18.8.SC" />
-        <item itemvalue="Python.18.7.DBSCAN" />
-        <item itemvalue="Python.18.6.AgglomerativeClustering" />
-        <item itemvalue="Python.18.3.VectorQuantization" />
       </list>
     </recent_temporary>
   </component>
@@ -495,22 +502,23 @@
       <workItem from="1622075505506" duration="620000" />
       <workItem from="1622970122229" duration="41240000" />
       <workItem from="1624322714020" duration="9825000" />
-      <workItem from="1624494968815" duration="26526000" />
+      <workItem from="1624494968815" duration="27476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121023000" />
+    <option name="totallyTimeSpent" value="121973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15766263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" visible="true" weight="0.36694387" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924242" visible="true" weight="0.3035343" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.28794178" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -524,7 +532,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" x="-1472" y="185" width="1180" height="744" id="SciView" order="3" type="FLOATING" visible="true" weight="0.35446528" />
+      <window_info anchor="right" x="-1472" y="185" width="1180" height="744" id="SciView" order="3" type="FLOATING" visible="true" weight="0.35446528" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -558,60 +566,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01ML/9.Regression/9.12.LinearModel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01ML/9.Regression/9.2.LinearRegression_CV.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
-          <folding>
-            <element signature="e#42#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01ML/9.Regression/9.8.roc_auc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="35" column="31" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01ML/9.Regression/9.9.roc_auc_iris.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01ML/11.RandomForest/11.0.Entropy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01ML/11.RandomForest/Python2/11.1.Iris_DecisionTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1293" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01ML/11.RandomForest/Python2/11.2.Iris_DecisionTree_Enum.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01ML/11.RandomForest/Python2/11.3.DecisionTreeRegressor.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01ML/11.RandomForest/Python2/11.7.FieldIntensity.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-329" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01ML/11.RandomForest/11.6.Bagging.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -896,10 +850,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/01ML/22.LDA/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/01ML/20.EM/20.1.EM.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
           <caret line="71" column="31" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01ML/22.LDA/22.1.Iris_GaussianNB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="62" column="43" lean-forward="true" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01ML/22.LDA/22.3.text_classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1698" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01ML/22.LDA/22.4.word2vec_intro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01ML/22.LDA/22.5.word2vec_sogou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01ML/22.LDA/22.6.LDA_intro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-710" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01ML/22.LDA/22.7.netease_news.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1026" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01ML/22.LDA/22.9.QQ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01ML/22.LDA/22.10.textrank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
