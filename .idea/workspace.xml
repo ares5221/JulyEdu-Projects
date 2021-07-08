@@ -11,44 +11,28 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$11_3_DecisionTreeRegressor.coverage" NAME="11.3.DecisionTreeRegressor Coverage Results" MODIFIED="1624505546605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/11.RandomForest" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$4_3_calc_e.coverage" NAME="4.3.calc_e Coverage Results" MODIFIED="1623232170058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/4.Python" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_5_gamma.coverage" NAME="5.5.gamma Coverage Results" MODIFIED="1623726836930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$rule_base2.coverage" NAME="rule_base2 Coverage Results" MODIFIED="1583925446958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lesson03" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$9_4_Iris_LR.coverage" NAME="9.4.Iris_LR Coverage Results" MODIFIED="1624437606345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$6_2_NagelSchreckenberg.coverage" NAME="6.2.NagelSchreckenberg Coverage Results" MODIFIED="1623738647827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/6.Data" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$nltk_work2.coverage" NAME="nltk_work2 Coverage Results" MODIFIED="1583918637978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lession01" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$4_0_sqrt.coverage" NAME="4.0.sqrt Coverage Results" MODIFIED="1622972865806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/4.Python" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$4_2_class_intro.coverage" NAME="4.2.class_intro Coverage Results" MODIFIED="1623216432865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/4.Python" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$6_1_Prime.coverage" NAME="6.1.Prime Coverage Results" MODIFIED="1623728431483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/6.Data" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$lesson01_phrasetweet.coverage" NAME="lesson01-phrasetweet Coverage Results" MODIFIED="1583911768984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lession01" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_8_SVD.coverage" NAME="5.8.SVD Coverage Results" MODIFIED="1623727091560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$9_12_LinearModel.coverage" NAME="9.12.LinearModel Coverage Results" MODIFIED="1624439507883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$9_11_save.coverage" NAME="9.11.save Coverage Results" MODIFIED="1624439491683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$word_rnn.coverage" NAME="word_rnn Coverage Results" MODIFIED="1583925457933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lesson02" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$01demo.coverage" NAME="01demo Coverage Results" MODIFIED="1587203311492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03ML_mini" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$18_3_VectorQuantization.coverage" NAME="18.3.VectorQuantization Coverage Results" MODIFIED="1625456595044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/18.Clustering" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$6_5_Onehot.coverage" NAME="6.5.Onehot Coverage Results" MODIFIED="1623739026299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/6.Data" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$13_7_Bagging_intro.coverage" NAME="13.7.Bagging_intro Coverage Results" MODIFIED="1624863907196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/13.Boost" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$6_4_car_LR.coverage" NAME="6.4.car_LR Coverage Results" MODIFIED="1623738740224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/6.Data" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$15_9_grid.coverage" NAME="15.9.grid Coverage Results" MODIFIED="1625198018247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/15.SVM" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$10_1RF.coverage" NAME="10.1RF Coverage Results" MODIFIED="1624521389572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/11.RandomForest" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_1_ImageToChar.coverage" NAME="5.1.ImageToChar Coverage Results" MODIFIED="1623216675890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$22_10_textrank.coverage" NAME="22.10.textrank Coverage Results" MODIFIED="1625618990143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/22.LDA" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$9_1_Advertising.coverage" NAME="9.1.Advertising Coverage Results" MODIFIED="1624435583426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$11_0_Entropy.coverage" NAME="11.0.Entropy Coverage Results" MODIFIED="1624495413908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/11.RandomForest/Python2" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$sgd_demo.coverage" NAME="sgd_demo Coverage Results" MODIFIED="1623987273751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$22_1_Iris_GaussianNB.coverage" NAME="22.1.Iris_GaussianNB Coverage Results" MODIFIED="1625618832693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/22.LDA" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_10_stock_K.coverage" NAME="5.10.stock_K Coverage Results" MODIFIED="1623727579518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$q3_cal_tfidf.coverage" NAME="q3_cal_tfidf Coverage Results" MODIFIED="1583993851730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/exam" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$15_5_unBalance.coverage" NAME="15.5.unBalance Coverage Results" MODIFIED="1625197824070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/15.SVM" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$10_DT.coverage" NAME="10.DT Coverage Results" MODIFIED="1624520922424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/11.RandomForest" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$nltk_work1.coverage" NAME="nltk_work1 Coverage Results" MODIFIED="1583918286349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lession01" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$nltk_work1_pro.coverage" NAME="nltk_work1_pro Coverage Results" MODIFIED="1583918444557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lession01" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$4_7_Benford.coverage" NAME="4.7.Benford Coverage Results" MODIFIED="1623232897607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/4.Python" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$ddd.coverage" NAME="ddd Coverage Results" MODIFIED="1623729326340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/6.Data" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$6_6_Features.coverage" NAME="6.6.Features Coverage Results" MODIFIED="1623739071746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/6.Data" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$9_0_GDA.coverage" NAME="9.0.GDA Coverage Results" MODIFIED="1623923473616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$lesson01.coverage" NAME="lesson01 Coverage Results" MODIFIED="1583911373828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lession01" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$9_5_Boston.coverage" NAME="9.5.Boston Coverage Results" MODIFIED="1624437739383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$9_6_ARIMA.coverage" NAME="9.6.ARIMA Coverage Results" MODIFIED="1624437900780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$18_6_AgglomerativeClustering.coverage" NAME="18.6.AgglomerativeClustering Coverage Results" MODIFIED="1625456807444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/18.Clustering" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$18_8_SC.coverage" NAME="18.8.SC Coverage Results" MODIFIED="1625456863830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/18.Clustering" />
@@ -57,66 +41,74 @@
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$15_7_MNIST.coverage" NAME="15.7.MNIST Coverage Results" MODIFIED="1625197884461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/15.SVM" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_13_Mandelbrot.coverage" NAME="5.13.Mandelbrot Coverage Results" MODIFIED="1623728045692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_11_image_convolve.coverage" NAME="5.11.image_convolve Coverage Results" MODIFIED="1623727607871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$gd_demo.coverage" NAME="gd_demo Coverage Results" MODIFIED="1624000868378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$15_8_SVR.coverage" NAME="15.8.SVR Coverage Results" MODIFIED="1625197929541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/15.SVM" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$yyy.coverage" NAME="yyy Coverage Results" MODIFIED="1625716461809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$chatbot_demo.coverage" NAME="chatbot-demo Coverage Results" MODIFIED="1583993497171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lesson04" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$11_1_Iris_DecisionTree.coverage" NAME="11.1.Iris_DecisionTree Coverage Results" MODIFIED="1624504437332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/11.RandomForest" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$13_2_xgBoost_Predict.coverage" NAME="13.2.xgBoost_Predict Coverage Results" MODIFIED="1624863749423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/13.Boost" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$q3_cal_tfidfbyscikitlearn.coverage" NAME="q3_cal_tfidfbyscikitlearn Coverage Results" MODIFIED="1583994168401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/exam" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_12_odeint.coverage" NAME="5.12.odeint Coverage Results" MODIFIED="1623727898145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$4_4_calc_sin.coverage" NAME="4.4.calc_sin Coverage Results" MODIFIED="1623232775788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/4.Python" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$q3_cal_tfidf__1_.coverage" NAME="q3_cal_tfidf (1) Coverage Results" MODIFIED="1583994726997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/exam" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$logic_demo.coverage" NAME="logic_demo Coverage Results" MODIFIED="1623993815384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$13_3_wine.coverage" NAME="13.3.wine Coverage Results" MODIFIED="1624863790287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/13.Boost" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$00demo.coverage" NAME="00demo Coverage Results" MODIFIED="1624585928203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/7.cluser" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_2_hashlib.coverage" NAME="5.2.hashlib Coverage Results" MODIFIED="1623722351564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$11_2_Iris_DecisionTree_Enum.coverage" NAME="11.2.Iris_DecisionTree_Enum Coverage Results" MODIFIED="1624505113936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/11.RandomForest" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$22_9_QQ.coverage" NAME="22.9.QQ Coverage Results" MODIFIED="1625618967463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/22.LDA" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$18_1_kMeans.coverage" NAME="18.1.kMeans Coverage Results" MODIFIED="1625446122863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/18.Clustering" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$15_8_2_CV.coverage" NAME="15.8_2.CV Coverage Results" MODIFIED="1625197935053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/15.SVM" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$20_1_EM.coverage" NAME="20.1.EM Coverage Results" MODIFIED="1625559506212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/20.EM" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$lesson01_stemming_lemma.coverage" NAME="lesson01-stemming-lemma Coverage Results" MODIFIED="1583917557841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lession01" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$4_8_Game.coverage" NAME="4.8.Game Coverage Results" MODIFIED="1623233029449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/4.Python" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$9_9_roc_auc_iris.coverage" NAME="9.9.roc_auc_iris Coverage Results" MODIFIED="1624438158323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$13_5_Iris_Adaboost.coverage" NAME="13.5.Iris_Adaboost Coverage Results" MODIFIED="1624863871280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/13.Boost" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$15_1_SVM_intro.coverage" NAME="15.1.SVM_intro Coverage Results" MODIFIED="1625197588638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/15.SVM" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$tt.coverage" NAME="tt Coverage Results" MODIFIED="1624587430989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/7.cluser" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$rule_base3.coverage" NAME="rule_base3 Coverage Results" MODIFIED="1583979201008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lesson03" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$lr.coverage" NAME="lr Coverage Results" MODIFIED="1621844590276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/linear_regression" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$4_1_intro.coverage" NAME="4.1.intro Coverage Results" MODIFIED="1623231980529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/4.Python" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$4_9_jiecheng.coverage" NAME="4.9.jiecheng Coverage Results" MODIFIED="1623719242129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/4.Python" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$stock.coverage" NAME="stock Coverage Results" MODIFIED="1583924175445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lesson02" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$LR_Param.coverage" NAME="LR_Param Coverage Results" MODIFIED="1623979262968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$15_2_decision_function.coverage" NAME="15.2.decision_function Coverage Results" MODIFIED="1625197633509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/15.SVM" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_6_Pearson.coverage" NAME="5.6.Pearson Coverage Results" MODIFIED="1623726896442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$15_4_ClassifierIndex.coverage" NAME="15.4.ClassifierIndex Coverage Results" MODIFIED="1625197771982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/15.SVM" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$13_6_Adult.coverage" NAME="13.6.Adult Coverage Results" MODIFIED="1624863895243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/13.Boost" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_3_stat.coverage" NAME="5.3.stat Coverage Results" MODIFIED="1623726659649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_5_gamma.coverage" NAME="5.5.gamma Coverage Results" MODIFIED="1623726836930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$rule_base2.coverage" NAME="rule_base2 Coverage Results" MODIFIED="1583925446958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lesson03" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$6_2_NagelSchreckenberg.coverage" NAME="6.2.NagelSchreckenberg Coverage Results" MODIFIED="1623738647827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/6.Data" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$4_0_sqrt.coverage" NAME="4.0.sqrt Coverage Results" MODIFIED="1622972865806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/4.Python" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$lesson01_phrasetweet.coverage" NAME="lesson01-phrasetweet Coverage Results" MODIFIED="1583911768984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lession01" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$word_rnn.coverage" NAME="word_rnn Coverage Results" MODIFIED="1583925457933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lesson02" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$6_5_Onehot.coverage" NAME="6.5.Onehot Coverage Results" MODIFIED="1623739026299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/6.Data" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$6_4_car_LR.coverage" NAME="6.4.car_LR Coverage Results" MODIFIED="1623738740224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/6.Data" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_1_ImageToChar.coverage" NAME="5.1.ImageToChar Coverage Results" MODIFIED="1623216675890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$9_1_Advertising.coverage" NAME="9.1.Advertising Coverage Results" MODIFIED="1624435583426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$11_0_Entropy.coverage" NAME="11.0.Entropy Coverage Results" MODIFIED="1624495413908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/11.RandomForest/Python2" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$sgd_demo.coverage" NAME="sgd_demo Coverage Results" MODIFIED="1623987273751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$q3_cal_tfidf.coverage" NAME="q3_cal_tfidf Coverage Results" MODIFIED="1583993851730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/exam" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$ddd.coverage" NAME="ddd Coverage Results" MODIFIED="1623729326340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/6.Data" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$lesson01.coverage" NAME="lesson01 Coverage Results" MODIFIED="1583911373828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lession01" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$9_5_Boston.coverage" NAME="9.5.Boston Coverage Results" MODIFIED="1624437739383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$gd_demo.coverage" NAME="gd_demo Coverage Results" MODIFIED="1624000868378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$15_8_SVR.coverage" NAME="15.8.SVR Coverage Results" MODIFIED="1625197929541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/15.SVM" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_12_odeint.coverage" NAME="5.12.odeint Coverage Results" MODIFIED="1623727898145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$q3_cal_tfidf__1_.coverage" NAME="q3_cal_tfidf (1) Coverage Results" MODIFIED="1583994726997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/exam" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$logic_demo.coverage" NAME="logic_demo Coverage Results" MODIFIED="1623993815384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$00demo.coverage" NAME="00demo Coverage Results" MODIFIED="1624585928203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/7.cluser" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$11_2_Iris_DecisionTree_Enum.coverage" NAME="11.2.Iris_DecisionTree_Enum Coverage Results" MODIFIED="1624505113936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/11.RandomForest" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$lesson01_stemming_lemma.coverage" NAME="lesson01-stemming-lemma Coverage Results" MODIFIED="1583917557841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lession01" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$4_8_Game.coverage" NAME="4.8.Game Coverage Results" MODIFIED="1623233029449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/4.Python" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$13_5_Iris_Adaboost.coverage" NAME="13.5.Iris_Adaboost Coverage Results" MODIFIED="1624863871280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/13.Boost" />
+    <SUITE FILE_PATH="coverage/JulyEdu_Projects$15_1_SVM_intro.coverage" NAME="15.1.SVM_intro Coverage Results" MODIFIED="1625197588638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/15.SVM" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$15_6_HandWrittenDigits.coverage" NAME="15.6.HandWrittenDigits Coverage Results" MODIFIED="1625197839750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/15.SVM" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$13_1_xgBoost_Intro.coverage" NAME="13.1.xgBoost_Intro Coverage Results" MODIFIED="1624863615614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/13.Boost" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_9_stock.coverage" NAME="5.9.stock Coverage Results" MODIFIED="1623727406038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$9_2_LinearRegression_CV.coverage" NAME="9.2.LinearRegression_CV Coverage Results" MODIFIED="1624436134699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$4_1_intro.coverage" NAME="4.1.intro Coverage Results" MODIFIED="1623231980529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/4.Python" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$13_4_Titanic.coverage" NAME="13.4.Titanic Coverage Results" MODIFIED="1624863862893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/13.Boost" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$4_9_jiecheng.coverage" NAME="4.9.jiecheng Coverage Results" MODIFIED="1623719242129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/4.Python" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$stock.coverage" NAME="stock Coverage Results" MODIFIED="1583924175445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lesson02" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$9_8_roc_auc.coverage" NAME="9.8.roc_auc Coverage Results" MODIFIED="1624437951756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$15_3_SVM_draw.coverage" NAME="15.3.SVM_draw Coverage Results" MODIFIED="1625197705628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/15.SVM" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$LR_Param.coverage" NAME="LR_Param Coverage Results" MODIFIED="1623979262968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$15_2_decision_function.coverage" NAME="15.2.decision_function Coverage Results" MODIFIED="1625197633509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/15.SVM" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$rule_base.coverage" NAME="rule_base Coverage Results" MODIFIED="1583925375361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lesson03" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_6_Pearson.coverage" NAME="5.6.Pearson Coverage Results" MODIFIED="1623726896442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$15_4_ClassifierIndex.coverage" NAME="15.4.ClassifierIndex Coverage Results" MODIFIED="1625197771982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/15.SVM" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$4_6_Ensumble.coverage" NAME="4.6.Ensumble Coverage Results" MODIFIED="1623232872643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/4.Python" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$9_7_roc_auc_intro.coverage" NAME="9.7.roc_auc_intro Coverage Results" MODIFIED="1624437937909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$9_3_ElasticNet.coverage" NAME="9.3.ElasticNet Coverage Results" MODIFIED="1624436202421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/9.Regression" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_4_MultiGuass.coverage" NAME="5.4.MultiGuass Coverage Results" MODIFIED="1623726756361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
     <SUITE FILE_PATH="coverage/JulyEdu_Projects$nltk_work3.coverage" NAME="nltk_work3 Coverage Results" MODIFIED="1583918819139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01NLP/01NLPBasic/lession01" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$13_6_Adult.coverage" NAME="13.6.Adult Coverage Results" MODIFIED="1624863895243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/13.Boost" />
-    <SUITE FILE_PATH="coverage/JulyEdu_Projects$5_3_stat.coverage" NAME="5.3.stat Coverage Results" MODIFIED="1623726659649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ML/5.Package" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01ML/18.Clustering/18.8.SC.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01ML/20.EM/20.1.EM.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -181,11 +173,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01ML/22.LDA/22.10.textrank.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="323">
+              <caret line="20" column="65" lean-forward="true" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01ML/yyy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -223,7 +224,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01NLP/01NLPBasic/lession01/nltk_work2.py" />
         <option value="$PROJECT_DIR$/01NLP/01NLPBasic/lession01/nltk_work3.py" />
         <option value="$PROJECT_DIR$/01NLP/01NLPBasic/lesson02/encode_decode.py" />
         <option value="$PROJECT_DIR$/01NLP/01NLPBasic/lesson02/stock.py" />
@@ -274,6 +274,7 @@
         <option value="$PROJECT_DIR$/01ML/15.SVM/15.1.SVM_intro.py" />
         <option value="$PROJECT_DIR$/01ML/15.SVM/15.9.grid.py" />
         <option value="$PROJECT_DIR$/01ML/22.LDA/22.5.word2vec_sogou.py" />
+        <option value="$PROJECT_DIR$/01ML/yyy.py" />
       </list>
     </option>
   </component>
@@ -300,18 +301,6 @@
               <item name="JulyEdu-Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="JulyEdu-Projects" type="462c0819:PsiDirectoryNode" />
               <item name="01ML" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JulyEdu-Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JulyEdu-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="01ML" type="462c0819:PsiDirectoryNode" />
-              <item name="20.EM" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JulyEdu-Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JulyEdu-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="01ML" type="462c0819:PsiDirectoryNode" />
-              <item name="22.LDA" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JulyEdu-Projects" type="b2602c69:ProjectViewProjectNode" />
@@ -360,29 +349,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.22.10.textrank">
-    <configuration name="18.8.SC" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="JulyEdu-Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01ML/18.Clustering" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01ML/18.Clustering/18.8.SC.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.yyy">
     <configuration name="20.1.EM" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JulyEdu-Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -471,13 +438,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="yyy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JulyEdu-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01ML" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01ML/yyy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.yyy" />
         <item itemvalue="Python.22.10.textrank" />
         <item itemvalue="Python.22.9.QQ" />
         <item itemvalue="Python.22.1.Iris_GaussianNB" />
         <item itemvalue="Python.20.1.EM" />
-        <item itemvalue="Python.18.8.SC" />
       </list>
     </recent_temporary>
   </component>
@@ -502,12 +491,12 @@
       <workItem from="1622075505506" duration="620000" />
       <workItem from="1622970122229" duration="41240000" />
       <workItem from="1624322714020" duration="9825000" />
-      <workItem from="1624494968815" duration="27476000" />
+      <workItem from="1624494968815" duration="30697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121973000" />
+    <option name="totallyTimeSpent" value="125194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
@@ -532,7 +521,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" x="-1472" y="185" width="1180" height="744" id="SciView" order="3" type="FLOATING" visible="true" weight="0.35446528" />
+      <window_info anchor="right" x="-1472" y="185" width="1180" height="744" id="SciView" order="3" show_stripe_button="false" type="FLOATING" weight="0.35446528" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -566,9 +555,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01ML/11.RandomForest/11.6.Bagging.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/01ML/11.RandomForest/11.1.Iris_DecisionTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -903,8 +889,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01ML/22.LDA/22.10.textrank.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="323">
+          <caret line="20" column="65" lean-forward="true" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01ML/yyy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
         </state>
       </provider>
     </entry>
